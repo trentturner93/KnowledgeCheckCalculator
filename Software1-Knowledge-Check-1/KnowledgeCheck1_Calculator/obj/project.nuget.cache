@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4vNF9Q+yOj2R063Yv8JTQZ4FB/qh9WFXhiGskXl9l0m9GRjyUuf2+MwKLwBKDGCO5+ufoMecGvOd+cKW7u1WSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trent\\Knowledge Check\\Software1-Knowledge-Check-1\\KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trent\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\trent\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\trent\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\trent\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
